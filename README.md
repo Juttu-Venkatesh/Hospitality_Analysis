@@ -38,7 +38,7 @@ Marriott Bonvoy faced challenges in maintaining market share and revenue due to 
 
 ## Live Dashboard
 Explore the live Power BI dashboard for real-time insights:  
-[ReviveIQ Insights Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNGFiMjkzMzAtYTA3Mi00ZTFmLWFjNzMtMDk3NWU3YTYxZDZiIiwidCI6ImVjMTNmZDcyLTI5OGYtNDNjYy1iNDI3LTQ1ZTlmNzJkZjA5ZCJ9&pageName=8051d57eeb39bc1085e4)
+[ReviveIQ Insights Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYjA5NmQ2NDYtYzE2My00NjI4LTgzZGMtNGNlMzNhZjM2MGUzIiwidCI6ImVjMTNmZDcyLTI5OGYtNDNjYy1iNDI3LTQ1ZTlmNzJkZjA5ZCJ9&pageName=8051d57eeb39bc1085e4)
 
 ---
 
